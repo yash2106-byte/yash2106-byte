@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on Prompt Coach<br>I'm looking to collaborate on backend project<br>I'm currently learning node js<br>
-
+I’m currently building Prompt Coach, a project focused on improving prompt engineering through hands-on practice.<br>I’m actively learning Node.js and looking to collaborate on backend-focused projects where I can grow and contribute.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-raj-b97217330) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashRaj_2106) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajyash2510@gmail.com) 
