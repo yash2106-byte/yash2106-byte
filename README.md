@@ -1,5 +1,13 @@
-# 💫 About Me:
-I’m currently building Base Camp, a project focused on building a scalable project management tool through hands-on practice.<br>I’m actively learning Node.js and looking to collaborate on full-stack focused projects where I can grow and contribute.<br>
+# 👋 About Me:
+
+Backend developer building agentic AI systems from the ground up.
+
+Currently deep in a hands-on Agentic AI journey — going from LLM foundations to 
+multi-agent orchestration, building with Python, Jupyter, and Groq's LLaMA models. 
+Previously built EduVault (a pure-SQL PostgreSQL system) and BuildCamp (a full-stack 
+project management app with JWT auth).
+
+Looking for SWE / Backend Developer Intern opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-raj-b97217330) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashRaj_2106) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajyash2510@gmail.com) 
